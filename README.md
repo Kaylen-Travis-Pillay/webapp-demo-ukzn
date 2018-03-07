@@ -6,9 +6,9 @@ In order to view the source code and make changes, we need to setup your develop
 | ***Technology*** | ***Download Link*** |
 |--|--|
 | JavaSE | [download and install from Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html) |
-| Android Studio| [download and install from developer.android](https://developer.android.com/studio/index.html) |
+| Android Studio| [download and install from developer.android](https://developer.android.com/studio/index.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg5ODE2MjZdfQ==
+eyJoaXN0b3J5IjpbLTE2MDE4NjU2MzBdfQ==
 -->
