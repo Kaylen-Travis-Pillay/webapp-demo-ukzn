@@ -3,17 +3,15 @@ The Webapp-Demo-UKZN project is intended as an educational demonstration of the 
 
 ## Environment Setup
 In order to view the source code and make changes, we need to setup your development environment to build Android Applications. 
-| ***Technology*** | ***Download Link*** |
-|--|--|
 
-> ***JavaSE***    [download and install from Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html)
-
-Android Studio [download and install from developer.android](https://developer.android.com/studio/index.html)
+> ***JavaSE***,  [download and install from Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html)
+> 
+> ***Android Studio***, [download and install from developer.android](https://developer.android.com/studio/index.html)
 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MDE4NjU2MzBdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzY4OTE2MV19
+eyJoaXN0b3J5IjpbLTE2MDcwMjE4MzVdfQ==
 -->
