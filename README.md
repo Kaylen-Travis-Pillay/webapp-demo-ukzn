@@ -12,3 +12,6 @@ Android Studio| [download and install from developer.android](https://developer.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTE2MDE4NjU2MzBdfQ==
 -->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2NzYwMzE3NjNdfQ==
+-->
