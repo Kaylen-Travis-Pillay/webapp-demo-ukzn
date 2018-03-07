@@ -1,6 +1,6 @@
-# wWebapp-dDemo-ukzn
-A demonstration of an Android Web-App for educational purposeUKZN
+# Webapp-Demo-UKZN
+The Webapp-Demo-UKZN project is intended as an educational demonstration 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDU2NzUyMl19
+eyJoaXN0b3J5IjpbMTUxMjIwNTU4OF19
 -->
