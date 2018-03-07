@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="loading_background_color">#8a06b7</color>
+    <color name="load_title_textColor">#ffffff</color>
+    <color name="load_subtitle_textColor">#ffffff</color>
+    <color name="load_loading_icon_textColor">#ffffff</color>
+    <color name="load_footer_textColor">#ffffff</color>
+</resources>

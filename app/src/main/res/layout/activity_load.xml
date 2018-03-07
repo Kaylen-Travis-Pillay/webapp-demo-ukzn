@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/loading_background_color"
+    tools:context=".LoadActivity"
+    >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/general_layout_padding"
+        >
+
+        <ImageView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/load_image_marginTop"
+            android:scaleType="center"
+            android:src="@drawable/ic_loading_logo"
+            android:contentDescription="@string/load_image_description"
+            />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/load_title_marginTop"
+            android:textSize="@dimen/load_title_textSize"
+            android:textColor="@color/load_title_textColor"
+            android:textAlignment="center"
+            android:text="@string/load_title"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/load_subtitle_marginTop"
+            android:textAlignment="center"
+            android:textColor="@color/load_subtitle_textColor"
+            android:textSize="@dimen/load_subtitle_textSize"
+            android:text="@string/load_subtitle"
+            />
+
+        <com.ldoublem.loadingviewlib.view.LVBlock
+            android:id="@+id/lp_loading_icon"
+            android:layout_width="@dimen/load_loading_icon_width"
+            android:layout_height="@dimen/load_loading_icon_height"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/load_loading_icon_marginTop"
+            />
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textSize="@dimen/load_loading_icon_text"
+            android:textColor="@color/load_loading_icon_textColor"
+            android:text="@string/load_loading_icon_text"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="1"
+            android:gravity="bottom"
+            android:textAlignment="center"
+            android:textSize="@dimen/load_footer"
+            android:textColor="@color/load_footer_textColor"
+            android:text="@string/load_footer"
+            />
+        <TextView
+            android:id="@+id/lp_tv_footer"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textSize="@dimen/load_footer"
+            android:textColor="@color/load_footer_textColor"
+            android:onClick="onViewGithubClick"
+            />
+    </LinearLayout>
+</FrameLayout>

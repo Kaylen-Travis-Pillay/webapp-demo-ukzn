@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_layout_padding">16dp</dimen>
+
+    <!--loading page dimensions-->
+    <dimen name="load_image_marginTop">20dp</dimen>
+    <dimen name="load_title_marginTop">30dp</dimen>
+    <dimen name="load_title_textSize">40sp</dimen>
+    <dimen name="load_subtitle_marginTop">15dp</dimen>
+    <dimen name="load_subtitle_textSize">20sp</dimen>
+    <dimen name="load_loading_icon_width">100dp</dimen>
+    <dimen name="load_loading_icon_height">100dp</dimen>
+    <dimen name="load_loading_icon_marginTop">30dp</dimen>
+    <dimen name="load_loading_icon_text">13sp</dimen>
+    <dimen name="load_footer">15sp</dimen>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WebApp Demo [UKZN]</string>
+
+    <string name="load_title">Web-App Demo</string>
+    <string name="load_subtitle">An educational demonstration for UKZN students</string>
+    <string name="load_image_description">Loading Image</string>
+    <string name="load_loading_icon_text">loading</string>
+    <string name="load_footer">
+        This is a demo of a Web-App. This \'template\' can be used by ISTN 3rd year students for
+        their Major Project. The application has been developed to be as customisable as possible.\n\n
+        Developer attribution: Kaylen Travis Pillay.\n
+        For more information,
+    </string>
+    <string name="github">View GitHub Page</string>
+    <string name="github_url">https://github.com/Kaylen-Travis-Pillay/webapp-demo-ukzn</string>
+</resources>
