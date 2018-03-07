@@ -5,8 +5,8 @@ The Webapp-Demo-UKZN project is intended as an educational demonstration of the 
 In order to view the source code and make changes, we need to setup your development environment to build Android Applications. 
 | ***Technology*** | ***Download Link*** |
 |--|--|
-| JavaSE | [download and install from Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html) |
-| Android Studio| [download and install from developer.android](https://developer.android.com/studio/index.html)
+| JavaSE | [download and install from Oracle](http://www.oracle.com/technetwork/java/javase/downloads/jdk9-downloads-3848520.html)|
+Android Studio| [download and install from developer.android](https://developer.android.com/studio/index.html)
 
 
 <!--stackedit_data:
