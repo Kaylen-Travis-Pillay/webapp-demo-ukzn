@@ -1,6 +1,6 @@
 # Webapp-Demo-UKZN
-The Webapp-Demo-UKZN project is intended as an educational demonstration of the construction of WebApps through the use of WebView in Android. The application w
+The Webapp-Demo-UKZN project is intended as an educational demonstration of the construction of WebApps through the use of WebView in Android. The application will al
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjE0OTIwNV19
+eyJoaXN0b3J5IjpbODA2ODkwOTIxXX0=
 -->
