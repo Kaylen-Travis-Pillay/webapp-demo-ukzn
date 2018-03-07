@@ -3,11 +3,11 @@ The Webapp-Demo-UKZN project is intended as an educational demonstration of the 
 
 ## Environment Setup
 In order to view the source code and make changes, we need to setup your development environment to build Android Applications. 
-| ****** |  |
+| ***Technology*** | ***Download Link*** |
 |--|--|
-|  |  |
+| JavaSE |  |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MjcxMzBdfQ==
+eyJoaXN0b3J5IjpbLTU1OTE5MzE2MF19
 -->
